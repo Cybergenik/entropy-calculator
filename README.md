@@ -1,7 +1,7 @@
 Usage:
-```
-python3 entropy.py shakespeare.txt
-```
+```bash
+> python3 entropy.py shakespeare.txt
+
 shakespeare.txt
 Total Words: 59207
 Shannon Entropy: 105.66434735409639
@@ -11,3 +11,4 @@ Shannon Entropy: 105.66434735409639
 19540: i
 18656: to
 17958: of
+```
