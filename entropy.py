@@ -22,7 +22,7 @@ def main() -> int:
     print(sys.argv[1])
     print(f"Total Words: {N}")
     # https://en.wikipedia.org/wiki/Entropy_(information_theory)
-    print(f"Shannon Entropy: {H}")
+    print(f"Shannon Entropy: {H:.2f}")
     print(f"5 Most Common Words:\n{nl.join([f'{v}: {k}' for k,v in
                                    all_words.most_common(5)])}")
     return 0

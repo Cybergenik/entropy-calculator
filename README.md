@@ -6,7 +6,7 @@
 
 shakespeare.txt
 Total Words: 59207
-Shannon Entropy: 105.66434735409639
+Shannon Entropy: 105.66
 5 Most Common Words:
 27486: the
 25994: and
