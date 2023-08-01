@@ -1,4 +1,6 @@
-Usage:
+## [Shannon Entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)) Calculator
+
+#### Usage:
 ```bash
 > python3 entropy.py shakespeare.txt
 
